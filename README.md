@@ -1,13 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sumanth Muvva</h1>
 <h3 align="center">A passionate software/data engineer from India</h3>
-<img align="center" width=950 height = 200 src="https://thumbs.dreamstime.com/b/big-data-science-analysis-business-technology-concept-virtual-screen-big-data-science-analysis-business-technology-concept-145015243.jpg">
+<img align="center" width=1000 height = 270 src="https://thumbs.dreamstime.com/b/big-data-science-analysis-business-technology-concept-virtual-screen-big-data-science-analysis-business-technology-concept-145015243.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumanthmuvva&label=Profile%20views&color=0e75b6&style=flat" alt="sumanthmuvva" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sumanthmuvva" alt="sumanthmuvva" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 - 🌱 I’m currently learning **Advanced Data Structures, Automation, Python, ML, Git, SQL, Linux**
 
 - 💬 Ask me about **Python, Finance, SQL**
