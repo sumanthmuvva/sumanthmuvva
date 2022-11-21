@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sumanth Muvva</h1>
 <h3 align="center">A passionate software/data engineer from India</h3>
-<img align="center" width=1000 src="https://media.giphy.com/media/10MEBgSHIhglMY/giphy.gif">
+<img align="center" width=950 src="https://thumbs.dreamstime.com/b/big-data-science-analysis-business-technology-concept-virtual-screen-big-data-science-analysis-business-technology-concept-145015243.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumanthmuvva&label=Profile%20views&color=0e75b6&style=flat" alt="sumanthmuvva" /> </p>
 
