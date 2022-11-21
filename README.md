@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sumanth Muvva</h1>
 <h3 align="center">A passionate software/data engineer from India</h3>
-<img align="center" width=1000 src="https://media-exp1.licdn.com/dms/image/C4D16AQFru8PuJbOCkg/profile-displaybackgroundimage-shrink_350_1400/0/1652717082065?e=1674691200&v=beta&t=tgVe6d1KEOtXwPXhPRplHFGnlwn9EJdAXssYbk4D_K4">
+<img align="center" width=900 src="https://thumbs.gfycat.com/BitterSinfulChinesecrocodilelizard-size_restricted.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumanthmuvva&label=Profile%20views&color=0e75b6&style=flat" alt="sumanthmuvva" /> </p>
 
